@@ -1,3 +1,0 @@
-# Architecture
-
-Infra architecture notes.
